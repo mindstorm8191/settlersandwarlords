@@ -1,4 +1,4 @@
-# settlersandwarlords
+# Settlers and Warlords
 
 Note: These are the notes I have generated for this project thus far.  All this is subject to change
 
