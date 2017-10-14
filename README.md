@@ -22,160 +22,156 @@ Map construction
   routes (for example, iron ores
 
 Army makeup
-Conscripts - These will consist of slaves that are put into the armies.  They won't have much fighting ability, but enough of them can still be very effective.  Like slaves, they
+* Conscripts - These will consist of slaves that are put into the armies.  They won't have much fighting ability, but enough of them can still be very effective.  Like slaves, they
  will need additional methods to contain them, and may choose to riot against their commanders or allow themselves to be captured if they are not contained enough.
 
-Warriors - These will consist of crew, converted to fight.  They will be able to receive training to improve their effectiveness in combat, and can be given suitable gear to do
+* Warriors - These will consist of crew, converted to fight.  They will be able to receive training to improve their effectiveness in combat, and can be given suitable gear to do
  even better.
 
-Commanders - These will consist of loyalists who lead troop groups (armies) into battles. Armies will need at least one commander, but may use multiple commanders to improve
+* Commanders - These will consist of loyalists who lead troop groups (armies) into battles. Armies will need at least one commander, but may use multiple commanders to improve
  battle numbers. They will require a certain level of training before being useable, and do much better in combat than untrained fighters.
 
-Land Types
+# Land Types
   We'll start with a simplified list of these: forests and plains to start, then desert, and mountain lands, etc, as game progress allows
-Deep Desert - Resources will be scarce here, and the land won't be very valuable. Certain land locations will have oasis (any desert-spawning players will have one of these),
+* Deep Desert - Resources will be scarce here, and the land won't be very valuable. Certain land locations will have oasis (any desert-spawning players will have one of these),
               and harbor a small amount of farming.  The rest will be wide open and unuseable.  However, many players may choose to develop these areas, as it will be cheaper
               to mine underground resources.
-Light Desert - A mix between plains and desert.  Plants are harder to grow here, but it is still doable.  Most common place to find saharah based animals (lions, antilope, boars, etc)
-Plains - Ideal location for growing crops.  Wheat is easily collected wildly here, but trees and wood are harder to find.  Dedicated lands for growing trees will be
+* Light Desert - A mix between plains and desert.  Plants are harder to grow here, but it is still doable.  Most common place to find saharah based animals (lions, antilope, boars, etc)
+* Plains - Ideal location for growing crops.  Wheat is easily collected wildly here, but trees and wood are harder to find.  Dedicated lands for growing trees will be
          recommended for early players, as wood will be expensive for trading.
-Hilly plains - Capable of growing crops, but less ideal.  Will benefit from irrigation efforts to increase farming.
-Rocky Hills - Difficult area to build in, but contains a lot of trees that can be cut down.  Easiest source of stones
-Light Forests - A mix between plains and forests.  Offers both trees and farmland.  Trees can be cleared to make for farming as if it were farmland.
-                Common game:
-Heavy forests - Dense forest area.  Travel is difficult through this area, and offers a very large source of trees.
-Light Swamps - Has lots of plots that are water, that are placed at random through the map.  This land makes for poor mining, as digging holes will fill rapidly with water
+* Hilly plains - Capable of growing crops, but less ideal.  Will benefit from irrigation efforts to increase farming.
+* Rocky Hills - Difficult area to build in, but contains a lot of trees that can be cut down.  Easiest source of stones
+* Light Forests - A mix between plains and forests.  Offers both trees and farmland.  Trees can be cleared to make for farming as if it were farmland.
+* Heavy forests - Dense forest area.  Travel is difficult through this area, and offers a very large source of trees.
+* Light Swamps - Has lots of plots that are water, that are placed at random through the map.  This land makes for poor mining, as digging holes will fill rapidly with water
                (in-game miners will simply refuse to work for this reason).  However, with enough work, this will make for good farming land, as irrigation is very easy.
                  Common game:
-Heavy Swamps - Consists mostly of water spaces.  Very hard to inhabit.
+* Heavy Swamps - Consists mostly of water spaces.  Very hard to inhabit.
   Determined players can bring in dirt to fill in lands to make it more
   habitable.  This land is also impossible to mine in.
-Wet forests - Like swamps, but with a heavy layer of trees.  Coupled with swampy soil, this makes for hard travelling, until road structures are added.
-Jungle - Basically wet forests, but even worse.  Has enough trees that the wet soil isn't really an issue anymore.
-Rivers - Cuts through all land types in multiple directions
+* Wet forests - Like swamps, but with a heavy layer of trees.  Coupled with swampy soil, this makes for hard travelling, until road structures are added.
+* Jungle - Basically wet forests, but even worse.  Has enough trees that the wet soil isn't really an issue anymore.
+* Rivers - Cuts through all land types in multiple directions
 - Land plotting will be done the same way I did in Vesuvius: Build a print of circles, each different color representing different land types
 - These will still have room to harbor some amount of development, but will not have enough for a complete setup
 
 * Ore types will use a separate map, and not be tied to the above-ground terrain.
 Ores found:
-Brown Limonite
-Yellow Limonite
-Banded Iron
-Chalcopyrite - source of copper, plus trace amounts of platinum and other ores
-pure copper, tin ores
-Cassiterite - source of tin
+* Brown Limonite, Yellow Limonite, Banded Iron
+* Chalcopyrite - source of copper, plus trace amounts of platinum and other ores
+* Cassiterite - source of tin
 
 - follow gregtech's entire resource tree
 - Actually, start with a few basic ores: iron, copper, tin, aluminum.  We can expand on this later
 
-Hunting game types
-  * Stick to a small list of game types, to each fill specific roles.  No need to get fancy (yet. we can expand this later)
-  Wolf - Always hunts in packs.  Can be dangerous to new camps. Common everywhere
-  Deer - easier to kill, but fast.  Best to kill w/ ranged weapons. Common in plains and forests. Rare in deserts.
-  Hawks - can only be killed with ranged weapons.  provides feathers. Common everywhere
-  Rabbits - small and fast.  Can be caught and bred for easier meat supplies.  Common everywhere
-  Chickens - small and provides feathers.  Easily caught and can be bred for easy meat.  Needs lots of seeds for feeding them.  Also provides eggs for additional food,
+# Hunting game types
+
+Stick to a small list of game types, to each fill specific roles.  No need to get fancy (yet. we can expand this later)
+
+* Wolf - Always hunts in packs.  Can be dangerous to new camps. Common everywhere
+* Deer - easier to kill, but fast.  Best to kill w/ ranged weapons. Common in plains and forests. Rare in deserts.
+* Hawks - can only be killed with ranged weapons.  provides feathers. Common everywhere
+* Rabbits - small and fast.  Can be caught and bred for easier meat supplies.  Common everywhere
+* Chickens - small and provides feathers.  Easily caught and can be bred for easy meat.  Needs lots of seeds for feeding them.  Also provides eggs for additional food,
              and feathers for arrows. Common in plains, rare everywhere else
-  Cows - Some can be found roaming wild.  large, slow and easily captured.  Best source of meats, and can be bred.  Also provides milk.  Common in plains, rare in
+* Cows - Some can be found roaming wild.  large, slow and easily captured.  Best source of meats, and can be bred.  Also provides milk.  Common in plains, rare in
          forests and swamps.
-  Horses - Wild ones can be found frequently, while lost / escaped ones can be found too. large but fast.  Difficult to capture, but can be tamed and used for work.  Can
+* Horses - Wild ones can be found frequently, while lost / escaped ones can be found too. large but fast.  Difficult to capture, but can be tamed and used for work.  Can
            be slaughtered for meats, but is better used for work & transport.  Common in plains, rare everywhere else
-  Sheep - can be captured for source of wool. Common in plains and mountainous areas, rate everywhere else
+* Sheep - can be captured for source of wool. Common in plains and mountainous areas, rate everywhere else
   
-  ---other (dropped) ideas:---
-  Buffalo - Travels in herds of 100 or more, but isn't a reliable food source unless a player becomes a travelling band (not sure how that'll work, though)
-  Donkeys - Not common to find, but easy to capture and tame.
-  Elephants - much larger than horses.  Harder still to capture & tame, but do well in battle - don't use - horses fill same role.  Not common to find.  Travels in
+---other (dropped) ideas:---
+*  Buffalo - Travels in herds of 100 or more, but isn't a reliable food source unless a player becomes a travelling band (not sure how that'll work, though)
+*  Donkeys - Not common to find, but easy to capture and tame.
+*  Elephants - much larger than horses.  Harder still to capture & tame, but do well in battle - don't use - horses fill same role.  Not common to find.  Travels in
               herds of 50 or more
-  Bear - Large and dangerous, especially for new camps.  Only travels alone or with cubs
-  Coyotes - good desert animals, covers a lot of ground at night
-  goats
-  Pigs - Minecraft does this, but we don't really have a specific role for these
-  Boars
-  Lizards
-  Snakes
-  squirrels
-  Rats
-  Ferrets
-  Foxes - smaller than wolves and hunts alone. Not dangerous to humans
-  Alligators - Good meats, but dangerous
-  Antilope - like deer, but travels in packs.  More common in plains and light deserts
+*  Bear - Large and dangerous, especially for new camps.  Only travels alone or with cubs
+*  Coyotes - good desert animals, covers a lot of ground at night
+*  goats
+*  Pigs - Minecraft does this, but we don't really have a specific role for these
+*  Boars
+*  Lizards
+*  Snakes
+*  squirrels
+*  Rats - small, like squirrels, but can still provide food when in numbers
+*  Ferrets
+*  Foxes - smaller than wolves and hunts alone. Not dangerous to humans
+*  Alligators - Good meats, but dangerous
+*  Antilope - like deer, but travels in packs.  More common in plains and light deserts
 
-
-Warr008
-
+# Magic elements
 without magic, this is only another civ/dwarf fortress game.
 
-Sorcerers - this will be its own npc civ type, which will be single persons controlling a whole land region (generally a forest). They survive well enough on their
+* Sorcerers - this will be its own npc civ type, which will be single persons controlling a whole land region (generally a forest). They survive well enough on their
             own, but are willing to trade some common goods for magic knowledge or magical artifacts.  Attacking them is not advisable, as they will take a large army
             to defeat.  There will be multiple sorcerer types, which deal with light or dark magic. Like all tribes, negative situations with neighbors may encourage
             better trades from them, or joining your ranks.  Troops first encountering sorcerers will see signs of them before meeting.  However, the sorcerer will
             already be well aware of their presencedddddddc
 
-Werewolves - Wolf type people, works in packs.  No moon morphing will be involved
-Vampires - Only out at night. Usually not found as tribes, they choose to infiltrate
+* Werewolves - Wolf type people, works in packs.  No moon morphing will be involved
+* Vampires - Only out at night. Usually not found as tribes, they choose to infiltrate
            existing tribes and slowly take over from inside, killing the Weak and converting the strong
-Faries - tiny forest dwellers with wings, too fast to kill with normal weapons
-Dwarves - ground dwellers living in vast cave systems
-Elves - plains / forest creatures with excellent vision and plant enhancing magic.
+* Faries - tiny forest dwellers with wings, too fast to kill with normal weapons
+* Dwarves - ground dwellers living in vast cave systems
+* Elves - plains / forest creatures with excellent vision and plant enhancing magic.
         may trade for Super seeds or plant enhancing materials
-Witches / warlocks - secluded group focused on developing their magical powers.  Will trade for rare magical items
-Ents - Giant walking trees.  Lives only in forests, and will guard forest lands near it from being chopped down.
+* Witches / warlocks - secluded group focused on developing their magical powers.  Will trade for rare magical items
+* Ents - Giant walking trees.  Lives only in forests, and will guard forest lands near it from being chopped down.
 
 Other dangerous creatures
-Wisp - air type creature, can't be harmed by physical weapons. Fire is effective to defend against them
-Dragons - fire breathing flyers, hard to kill, and rule the skies. can be tamed and bred
-zombies / Undead / skeletons - mindless creatures with inhuman strength but slow moving. roamers, travels in packs
-giant insects and spiders
-armored cows (needs name)
-Griffin - half horse half hawk creatures 
-Centaurs - Half horse half human creatures
-Ogres - giant humanoids that don't have much IQ.  Very dangerous for a new camp.  Does things (like attack) mostly at random
-Yeti - ice-based giant humanoid creatures.  Only shows up in winter / cold biomes, spreading additional cold & ice
+* Wisp - air type creature, can't be harmed by physical weapons. Fire is effective to defend against them
+* Dragons - fire breathing flyers, hard to kill, and rule the skies. can be tamed and bred
+* zombies / Undead / skeletons - mindless creatures with inhuman strength but slow moving. roamers, travels in packs
+* giant insects and spiders
+* armored cows (needs name)
+* Griffin - half horse half hawk creatures 
+* Centaurs - Half horse half human creatures
+* Ogres - giant humanoids that don't have much IQ.  Very dangerous for a new camp.  Does things (like attack) mostly at random
+* Yeti - ice-based giant humanoid creatures.  Only shows up in winter / cold biomes, spreading additional cold & ice
 
 
 Resource types
-Lumber - Available in small quantities everywhere, but major sources are only available from forests.  Forests can be depleted if wood is harvested too fast from them.  All lands
+* Lumber - Available in small quantities everywhere, but major sources are only available from forests.  Forests can be depleted if wood is harvested too fast from them.  All lands
          will replenish wood supply over time, but better lands will replenish its wood faster.  Players can improve quality of woodlands, but only after a certain technology
          level.  Wood will also be used for fueling furnaces for the production of iron, then alloys, then steel.
 
-Stone - This will mainly be used for constructing stronger buildings and defense walls.  Due to the high chances of attack or saboutage, stone structures will be in high demand.
+* Stone - This will mainly be used for constructing stronger buildings and defense walls.  Due to the high chances of attack or saboutage, stone structures will be in high demand.
         Buildings will have two general upgrade routes, one for increased production, the other for increased structure, which makes it harder to be destroyed by enemies.
 
-Grains - The basic food source for your people - but not the only one. Grains require processing into bread before consumption.  Grains can also be fed to livestock, which
+* Grains - The basic food source for your people - but not the only one. Grains require processing into bread before consumption.  Grains can also be fed to livestock, which
          provides meats.
 
-Livestock - This will provide an easy source of meats for your people, but will require land, grains and salt to keep the livestock fed & healthy. Livestock will also have to be
+* Livestock - This will provide an easy source of meats for your people, but will require land, grains and salt to keep the livestock fed & healthy. Livestock will also have to be
             bred, and slaughtered to provide food. Slautering will also provide raw hides, feathers and other resources
 
-Meats - A second source of food for your people.  Meats can be gathered from hunting from the wilderness early on.  Later, livestock can be aquired and developed.  Raw and cooked
+* Meats - A second source of food for your people.  Meats can be gathered from hunting from the wilderness early on.  Later, livestock can be aquired and developed.  Raw and cooked
         meats will have a short shelf-life (represented as a constant consumption speed), and be drained very quickly unless it is eaten or salted.  Because of the short
         shelf-life of meats, hunting expeditions will have to be done close to home.
 
-Vegetables - A third source of food for people.  Vegetable farms will be as easy to develop as grain farms, but take up less room.
+* Vegetables - A third source of food for people.  Vegetable farms will be as easy to develop as grain farms, but take up less room.
 
-Grape farms - Grape farms will be used solely for the production of wines, which increase happiness levels of citizens.
+* Grape farms - Grape farms will be used solely for the production of wines, which increase happiness levels of citizens.
 
-Salts - Salts will be used in the process of preserving meats, and will be required to keep livestock healthy.  Salt will be mined from the ground, mostly.  Later salts can be
+* Salts - Salts will be used in the process of preserving meats, and will be required to keep livestock healthy.  Salt will be mined from the ground, mostly.  Later salts can be
         collected from some waters, in drying spaces.
 
-Ores - Ores will be the source of metals, such as iron.  These ores will need to be processed in forges.  The player will be able to manage what the forge produces from
+* Ores - Ores will be the source of metals, such as iron.  These ores will need to be processed in forges.  The player will be able to manage what the forge produces from
        the ores. The forge will require a constant supply of  wood to fuel its fires.  Its outputs will initially only be iron, but with tech development, can be used
        to produce bronze, and then steel.  Ores will be collected as a single resource; what it comes out to be will be decided at the smeltery; higher-value metals
        requiring more ores to aquire.
        Ores to find underground:
-         Cassiterite - Source of tin.  Can extract zinc from it
-         Chalcopyrite - Source of copper, along with trace amounts of platinum.  Extracting platinum will require advanced technology
-         Banded Iron - Rusty aka oxygen-rich iron ore
-         Brown / yellow lignite - Source of iron.  Yellow limonite can yield nickel, but requires advanced processing
-         Coal - Easy fuel source.  Can extract lignite from it.  Spawns in very large quantities, but can be exhuasted all the same.  Fairly common
-         Magnetite - Source of iron.  Can extract vanadium from it
-         Vanadium Magnetite - Vanadium cannot be mined directly, but vanadium magnetite will be valuable as a trading item
-         Gold - not common, but players who locate it can dramatically shift the economy in their favor through production of coins
-         Malachite - Source of copper.  Can extract brown limonite from it, and later, carbon, hydrogen & oxygen
-         Tetrahedrite - Source of copper.  Can also extract anitmony from it (this is probably the only direct source of anitmony, used for producing acid-proof
+         - Cassiterite - Source of tin.  Can extract zinc from it
+         - Chalcopyrite - Source of copper, along with trace amounts of platinum.  Extracting platinum will require advanced technology
+         - Banded Iron - Rusty aka oxygen-rich iron ore
+         - Brown / yellow lignite - Source of iron.  Yellow limonite can yield nickel, but requires advanced processing
+         - Coal - Easy fuel source.  Can extract lignite from it.  Spawns in very large quantities, but can be exhuasted all the same.  Fairly common
+         - Magnetite - Source of iron.  Can extract vanadium from it
+         - Vanadium Magnetite - Vanadium cannot be mined directly, but vanadium magnetite will be valuable as a trading item
+         - Gold - not common, but players who locate it can dramatically shift the economy in their favor through production of coins
+         - Malachite - Source of copper.  Can extract brown limonite from it, and later, carbon, hydrogen & oxygen
+         - Tetrahedrite - Source of copper.  Can also extract anitmony from it (this is probably the only direct source of anitmony, used for producing acid-proof
                         containers, mostly for batteries).
-         Stibnite - Sulfur-rich antimony.  Cannot be used directly
+         - Stibnite - Sulfur-rich antimony.  Cannot be used directly
          Aluminum - Pure aluminum is rare to find, but is valuable to pre-electric civilizations
          Bauxite - Much more common source of aluminum, but requires electrolyzation.  Will also extract rutile (for titanium) and grossular dust (can be electrolyzed
                    for calcium, silicon and more aluminum).
