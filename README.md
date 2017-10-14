@@ -119,8 +119,8 @@ without magic, this is only another civ/dwarf fortress game.
 * Ents - Giant walking trees.  Lives only in forests, and will guard forest lands near it from being chopped down.
 
 Other dangerous creatures
-* Wisp - air type creature, can't be harmed by physical weapons. Fire is effective to defend against them
-* Dragons - fire breathing flyers, hard to kill, and rule the skies. can be tamed and bred
+* Wisp - air type creature, can't be harmed by physical weapons. Fire is effective to defend against them, but won't be able to kill them
+* Dragons - fire breathing flyers, hard to kill, and rule the skies. Can be tamed and bred
 * zombies / Undead / skeletons - mindless creatures with inhuman strength but slow moving. roamers, travels in packs
 * giant insects and spiders
 * armored cows (needs name)
@@ -129,32 +129,17 @@ Other dangerous creatures
 * Ogres - giant humanoids that don't have much IQ.  Very dangerous for a new camp.  Does things (like attack) mostly at random
 * Yeti - ice-based giant humanoid creatures.  Only shows up in winter / cold biomes, spreading additional cold & ice
 
-
-Resource types
-* Lumber - Available in small quantities everywhere, but major sources are only available from forests.  Forests can be depleted if wood is harvested too fast from them.  All lands
-         will replenish wood supply over time, but better lands will replenish its wood faster.  Players can improve quality of woodlands, but only after a certain technology
-         level.  Wood will also be used for fueling furnaces for the production of iron, then alloys, then steel.
-
+# Resource types
+* Lumber - Available in small quantities everywhere, but major sources are only available from forests.  Forests can be depleted if wood is harvested too fast from them.  All lands will replenish wood supply over time, but better lands will replenish its wood faster.  Players can improve quality of woodlands, but only after a certain technology level.  Wood will also be used for fueling furnaces for the production of iron, then alloys, then steel.
+  * We may eventually include multiple wood types, aka oak for soft lumber, pine for harder wood, but that will come later.
 * Stone - This will mainly be used for constructing stronger buildings and defense walls.  Due to the high chances of attack or saboutage, stone structures will be in high demand.
-        Buildings will have two general upgrade routes, one for increased production, the other for increased structure, which makes it harder to be destroyed by enemies.
-
-* Grains - The basic food source for your people - but not the only one. Grains require processing into bread before consumption.  Grains can also be fed to livestock, which
-         provides meats.
-
-* Livestock - This will provide an easy source of meats for your people, but will require land, grains and salt to keep the livestock fed & healthy. Livestock will also have to be
-            bred, and slaughtered to provide food. Slautering will also provide raw hides, feathers and other resources
-
-* Meats - A second source of food for your people.  Meats can be gathered from hunting from the wilderness early on.  Later, livestock can be aquired and developed.  Raw and cooked
-        meats will have a short shelf-life (represented as a constant consumption speed), and be drained very quickly unless it is eaten or salted.  Because of the short
-        shelf-life of meats, hunting expeditions will have to be done close to home.
-
+  * Buildings will have two general upgrade routes, one for increased production, the other for increased structure, which makes it harder to be destroyed by enemies.
+* Grains - The basic food source for your people - but not the only one. Grains require processing into bread before consumption.  Grains can also be fed to livestock, which provides meats.
+* Livestock - This will provide an easy source of meats for your people, but will require land, grains and salt to keep the livestock fed & healthy. Livestock will also have to be bred, and slaughtered to provide food. Slautering will also provide raw hides, feathers and other resources
+* Meats - A second source of food for your people.  Meats can be gathered from hunting from the wilderness early on.  Later, livestock can be aquired and developed.  Raw and cooked meats will have a short shelf-life (represented as a constant consumption speed), and be drained very quickly unless it is eaten or salted.  Because of the short shelf-life of meats, hunting expeditions will have to be done close to home.
 * Vegetables - A third source of food for people.  Vegetable farms will be as easy to develop as grain farms, but take up less room.
-
 * Grape farms - Grape farms will be used solely for the production of wines, which increase happiness levels of citizens.
-
-* Salts - Salts will be used in the process of preserving meats, and will be required to keep livestock healthy.  Salt will be mined from the ground, mostly.  Later salts can be
-        collected from some waters, in drying spaces.
-
+* Salts - Salts will be used in the process of preserving meats, and will be required to keep livestock healthy.  Salt will be mined from the ground, mostly. Later, salts can be collected from some waters, in drying spaces.
 * Ores - Ores will be the source of metals, such as iron.  These ores will need to be processed in forges.  The player will be able to manage what the forge produces from the ores. The forge will require a constant supply of  wood to fuel its fires.  Its outputs will initially only be iron, but with tech development, can be used to produce bronze, and then steel.  Ores will be collected as a single resource; what it comes out to be will be decided at the smeltery; higher-value metals requiring more ores to aquire. Ores to find underground:
   * Cassiterite - Source of tin.  Can extract zinc from it
   * Chalcopyrite - Source of copper, along with trace amounts of platinum.  Extracting platinum will require advanced technology
@@ -232,15 +217,16 @@ Resource types
          
          
 
-Buildings
+# Buildings
   * All buildings will have two separate upgrade routes; one to increase productivity (or storage, or at least something), the other to improve durability from attacks.
     Some productivity levels will require a minimum durability level (aka a roof over a workshop, for example).
   * All buildings will also have a tools level.  Tools will need to be provided by a tool shop (the tool shop working based on highest demand) or higher level building.  This way, specific tool types won't need to be tracked.  Upgrading production levels of a specific building will increase the maximum number of tools that building can hold.  Some buildings that share the same purpose may share tools, like if a building is added or removed. The player will be able to set a priority level on tools of each building, allowing some buildings to have priority of having more tools, over other buildings.  The more tools a specific building has, the faster the jobs there can be completed.  All tools wear our over time and need to be replaced.
   * Foresters hut - Working space for a forester.  First levels will not require any resources (everything starts from needing wood anyway), and later levels will be for storing more chopped wood
   * Blacksmith - Turns metals into weapons & armor.  Armies will be able to attack without equipment, but will do much better with it.
   * Housing - Places for your people.  Used only for sleeping at first, but later will develop into more useful & robust units that can be invested into.
-    * Tents - Quick & cheap temporary housing for individuals
-    * Basic house - Offers housing for a single family
+    * Straw huts - Very basic shelter for early colonists, made from sticks and straw
+    * Tents - Quick & cheap temporary housing for individuals.  Made from cloth, leather or just animal skins.  Can be stored away easily for later use, or used for travellers.
+    * Basic house - Offers housing for a single family.  Uses a lot of lumber
     * Stone house - Uses stone instead of wood for lower structures.  Requires less resources to keep warm in winter time.
     * Need additional housing types, but no game incentive for more expensive units
   * Hops fields - requires wood to set up vine holding structures
@@ -347,11 +333,10 @@ Starting buildings
 * If players cannot advance aka grow, their game will become stagnant and they will choose to leave.  Dealing with more problems at larger size may not work well.  Players will need to benefit greatly by improving lands, so they can deal with additional problems (like from other players).  Dealing with new problems can be fun.
 
 What tech level to get up to?
-* static tech level will be more fair to younger players, as it will balance the game better
-+: increasing tech levels will essentially open new doors for players as they progress through the game.
-+: Rail lines in existing areas can make bulk shipping faster & cheaper
--: Additional tech will be harder to code. Could add all late tech stuff later in dev process
-
+* (-) static tech level will be more fair to younger players, as it will balance the game better
+* (+) increasing tech levels will essentially open new doors for players as they progress through the game.
+* (+) Rail lines in existing areas can make bulk shipping faster & cheaper
+* (-) Additional tech will be harder to code. Could add all late tech stuff later in dev process
 Do initial tech levels now. Worry about advanced tech (including transportation by horses) later
 
 Center of game will be about multiplayer and negotiating with others
