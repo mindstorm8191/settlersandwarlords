@@ -173,93 +173,83 @@ Resource types
   * Sulfur - sulfur can sometimes be found in pure form.  Sulfur will be used in the production of rubber, bleaching paper, making explosives, and producing fertilizers
   * Sphalerite -  Sulfur-rich zinc.  Advanced processing can also yield cadmium and yellow garnet dust  Gregtech requires an electrolyzer to extract the sulfur from the zinc
   * Lignite - Can be used as fuel, but not as effective as coal.  Contains trace levels of coal, which can be washed out
-         * Quartz - Crystals... ??
-         * Quartzite
-         * Rock Salt
-         * Salt
-         * Lepidolite
-         * Spodumene
-         * Ruby
-         * Cinnabar
-         * Soapstone
-         * Talc
-         * Glauconite
-         * Pentlandite
-         * Nickel
-         * Garnierite
-         * Cobaltite
-         * Platinum
-         * Sheldonite
-         * Palladium
-         * Iridium
-         * Pitchblende
-         * Uranium
-         * Uraninite
-         * Plutonium
-         * Monazite
-         * Bastnasite
-         * Neodymium
-         * Molybdenum
-         * Wulfenite
-         * Molybdenite
-         * Powellite
-         * Sapphire
-         * Almandine
-         * Pyrope
-         * Manganese
-         * Grossular
-         * Spessartine
-         * Pyrolusite
-         * Tantalite
-         * Barite
-         * Certus Quartz
-         * Diamond
-         * Graphite
-         * Olivine
-         * Bentonite
-         * Glauconite
-         * Apatite
-         * Galena
-         * Silver
-         * Lea
-         * Lapis
-         * Lazurite
-         * Sodalite
-         * Calcite
-         * Beryllium
-         * Emerald
-         * Thorium
+  * Quartz - Crystals... ??
+  * Quartzite
+  * Rock Salt
+  * Salt
+  * Lepidolite
+  * Spodumene
+  * Ruby
+  * Cinnabar
+  * Soapstone
+  * Talc
+  * Glauconite
+  * Pentlandite
+  * Nickel
+  * Garnierite
+  * Cobaltite
+  * Platinum
+  * Sheldonite
+  * Palladium
+  * Iridium
+  * Pitchblende
+  * Uranium
+  * Uraninite
+  * Plutonium
+  * Monazite
+  * Bastnasite
+  * Neodymium
+  * Molybdenum
+  * Wulfenite
+  * Molybdenite
+  * Powellite
+  * Sapphire
+  * Almandine
+  * Pyrope
+  * Manganese
+  * Grossular
+  * Spessartine
+  * Pyrolusite
+  * Tantalite
+  * Barite
+  * Certus Quartz
+  * Diamond
+  * Graphite
+  * Olivine
+  * Bentonite
+  * Glauconite
+  * Apatite
+  * Galena
+  * Silver
+  * Lea
+  * Lapis
+  * Lazurite
+  * Sodalite
+  * Calcite
+  * Beryllium
+  * Emerald
+  * Thorium
          
          
 
 Buildings
   * All buildings will have two separate upgrade routes; one to increase productivity (or storage, or at least something), the other to improve durability from attacks.
     Some productivity levels will require a minimum durability level (aka a roof over a workshop, for example).
-  * All buildings will also have a tools level.  Tools will need to be provided by a tool shop (the tool shop working based on highest demand) or higher level building.
-    This way, specific tool types won't need to be tracked.  Upgrading production levels of a specific building will increase the maximum number of tools that building
-    can hold.  Some buildings that share the same purpose may share tools, like if a building is added or removed. The player will be able to set a priority level on
-    tools of each building, allowing some buildings to have priority of having more tools, over other buildings.  The more tools a specific building has, the faster the
-    jobs there can be completed.  All tools wear our over time and need to be replaced.
-  * Foresters hut - Working space for a forester.  First levels will not require any resources (everything starts from needing wood anyway), and later levels will be for
-                  storing more chopped wood
+  * All buildings will also have a tools level.  Tools will need to be provided by a tool shop (the tool shop working based on highest demand) or higher level building.  This way, specific tool types won't need to be tracked.  Upgrading production levels of a specific building will increase the maximum number of tools that building can hold.  Some buildings that share the same purpose may share tools, like if a building is added or removed. The player will be able to set a priority level on tools of each building, allowing some buildings to have priority of having more tools, over other buildings.  The more tools a specific building has, the faster the jobs there can be completed.  All tools wear our over time and need to be replaced.
+  * Foresters hut - Working space for a forester.  First levels will not require any resources (everything starts from needing wood anyway), and later levels will be for storing more chopped wood
   * Blacksmith - Turns metals into weapons & armor.  Armies will be able to attack without equipment, but will do much better with it.
-  * Housing
+  * Housing - Places for your people.  Used only for sleeping at first, but later will develop into more useful & robust units that can be invested into.
     * Tents - Quick & cheap temporary housing for individuals
     * Basic house - Offers housing for a single family
     * Stone house - Uses stone instead of wood for lower structures.  Requires less resources to keep warm in winter time.
     * Need additional housing types, but no game incentive for more expensive units
   * Hops fields - requires wood to set up vine holding structures
-  * Oast House - used later in game.  Built to increase output of brewery by drying out hops before being cooked.  Drying is done in the brewer building already, but a dedicated
-               building for hops drying will increase production output.
+  * Oast House - used later in game.  Built to increase output of brewery by drying out hops before being cooked.  Drying is done in the brewer building already, but a dedicated building for hops drying will increase production output.
   * Quarry - dedicated place to collect stone from. Some places will have better total supply than others
-  * Mining Shaft - Central place to locate mineral ores from. Ores on a given map block will all be the same, but between map spots, ores will be fully randomized. Players will not
-                 know what ores will be there until they begin mining.  Only certain ores will be minable at game start. Players will need pickaxes made of harder metals (or power
-                 tools) to mine later-game ores
-  * Pottery Kiln - Building where pottery is fired at. Later setups week have a separate building for producing unfired pottery shapes. Pottery will probably be one of the earliest
-                 finished goods export for players. Will also make water transportation possible
+  * Mining Shaft - Central place to locate mineral ores from. Ores on a given map block will all be the same, but between map spots, ores will be fully randomized. Players will not know what ores will be there until they begin mining.  Only certain ores will be minable at game start. Players will need pickaxes made of harder metals (or power tools) to mine later-game ores
+  * Pottery Kiln - Building where pottery is fired at. Later setups week have a separate building for producing unfired pottery shapes. Pottery will probably be one of the earliest finished goods export for players. Will also make water transportation possible
   * Farmer's Shed - Small building used to store farming tools. All other farm related land will be for crops
-  * Pastures - Fenced in areas for holding livestock of many kinds. Certain livestock will need heavier or smaller fencing setups. The type of fence used will be chosen from the
-             field's menu, then transported and installed there.
+  * Pastures - Fenced in areas for holding livestock of many kinds. Certain livestock will need heavier or smaller fencing setups. The type of fence used will be chosen from the field's menu, then transported and installed there.
   * Slaughterhouse - Place where animals are taken to be slaughtered for meats.
   * Smoking House - Place where meats are placed in order to turn them into jerky for preservation
   * Orchards - Places used to grow & care for trees.  Trees will take a long time to mature, but once they do, will produce lots of food.
@@ -268,60 +258,38 @@ Buildings
   * Tool Shop - Workshop dedicated to making tools, as well as weapons & armor
   * Dining Hall - Building used for feeding people. Early ones will have food crafted here.  Later, player will use a dedicated kitchen building for cooking
   * Blast Furnace - Turns iron and charcoal into steel.  Rather expensive to build, and once finished, very charcoal-hungry to run
-  * Saw Mill - Dedicated building for turning chopped wood into lumber, firewood and sawdust (sawdust can have later uses as well, such as for paper).  Before the sawmill is
-             built, all wood products are made at the Forester's Hut.  The Sawmill will benefit from being placed beside a river (to take advantage of power by water flow).
+  * Saw Mill - Dedicated building for turning chopped wood into lumber, firewood and sawdust (sawdust can have later uses as well, such as for paper).  Before the sawmill is built, all wood products are made at the Forester's Hut.  The Sawmill will benefit from being placed beside a river (to take advantage of power by water flow).
   * Mill - Uses wind or water power to grind wheat into flour 
   * Metal Shop - Uses power tools (starting with steam) to craft metal shapes that are used for tools.  May be enhanced with tools by its own outputs
-  * Steam Furnace - Later-game device - Central unit used to produce steam.  Steam pipe routing will be part of the infastructure variable of the map-plot that the steam furnace is
-                  in; it will work as a numeric value of how many building blocks may support steam.  This will hopefully encourage players to have all their steam devices close
-                  together. 
+  * Steam Furnace - Later-game device - Central unit used to produce steam.  Steam pipe routing will be part of the infastructure variable of the map-plot that the steam furnace is in; it will work as a numeric value of how many building blocks may support steam.  This will hopefully encourage players to have all their steam devices close together. 
   
 
 Lands
-Each land will have its own inventory.  The player will be in charge of moving resources between places in order to satisfy resource demands of each place.
-The game will advise players to build a city and have everything centralized, but the actual setups are up to the player. The player can set up regular shipments of resources
-between lands which, ideally, will balance out supply and demand.  Armies will be used for the transportation of your goods.  Other goods might be transported by citizens - but
-only for trade purposes.
-
-Roads and other land development will help improve the flow of resources.
-Lands will have a road quality level, which determines how hard it is
-for convoys to travel through.  The player may send workers and resources to improve the road quality score, thus allowing resources to flow more easily.  Road quality levels
-will also be related to enemies camped in the land, which may raid convoys moving through.  Unlike other structures, the quality of roads will be an all-chunk setting.  Players
-may also choose to destroy roads on a map (useful to slow down enemies during retreat), and roads will wear out over time in a gradual quality decrease, independent of use.
+* Each land will have its own inventory.  The player will be in charge of moving resources between places in order to satisfy resource demands of each place.
+* The game will advise players to build a city and have everything centralized, but the actual setups are up to the player. The player can set up regular shipments of resources between lands which, ideally, will balance out supply and demand.  Armies will be used for the transportation of your goods.  Other goods might be transported by citizens - but only for trade purposes.
+* Roads and other land development will help improve the flow of resources.
+* Lands will have a road quality level, which determines how hard it is for convoys to travel through.  The player may send workers and resources to improve the road quality score, thus allowing resources to flow more easily.  Road quality levels will also be related to enemies camped in the land, which may raid convoys moving through.  Unlike other structures, the quality of roads will be an all-chunk setting.  Players may also choose to destroy roads on a map (useful to slow down enemies during retreat), and roads will wear out over time in a gradual quality decrease, independent of use.
 
 Land Plots
 * For each location on the map, there will be a fixed number of land plots. The current total count will be 36 in a 6x6 grid.
-* Some of these will be consumed by land formations, such as rock cliffs, lakes and steep hills, which the player will be unable to modify.  Others may be consumed by heavy
-  forests, swamps, etc which can be developed to be more easily manageable.
-* Each building type / land use will consume 1 (and only 1) land plot.  The player will need additional lands elsewhere in order to build all possible buildings.  For some land
-  uses, the player will have several dozen land plots used for that purpose.
-* The player will only be able to view a single land plot at a time.  This will be their 'current location'.  To physically view other land plots in real time, they will have to
-  travel there, as though they were a king in travels.
-* Other land locations can be surveyed by armies, whether the player owns them or not.  The data they provide will not be in real-time; changes may take place after a survey is
-  completed, and may need to be surveyed again.
-* Lands will have a stability/safety level.  If safety level is high, colonists may choose to settle there, even if other places have more capacity & resources for citizens.  If
-  safety level is low, existing citizens will choose to flee to neighboring areas
+* Some of these will be consumed by land formations, such as rock cliffs, lakes and steep hills, which the player will be unable to modify.  Others may be consumed by heavy forests, swamps, etc which can be developed to be more easily manageable.
+* Each building type / land use will consume 1 (and only 1) land plot.  The player will need additional lands elsewhere in order to build all possible buildings.  For some land uses, the player will have several dozen land plots used for that purpose.
+* The player will only be able to view a single land plot at a time.  This will be their 'current location'.  To physically view other land plots in real time, they will have to travel there, as though they were a king in travels.
+* Other land locations can be surveyed by armies, whether the player owns them or not.  The data they provide will not be in real-time; changes may take place after a survey is completed, and may need to be surveyed again.
+* Lands will have a stability/safety level.  If safety level is high, colonists may choose to settle there, even if other places have more capacity & resources for citizens.  If safety level is low, existing citizens will choose to flee to neighboring areas
 
 Troop Management
-* Players won't control or watch troops directly.  To control troops not in the capital, they will send messengers to meet the troops - based on where they are believed to be
-  located.  Messenger sends may fail for some reasons (armies not found, access refused, messenger MIA aka killed or enslaved).
+* Players won't control or watch troops directly.  To control troops not in the capital, they will send messengers to meet the troops - based on where they are believed to be located.  Messenger sends may fail for some reasons (armies not found, access refused, messenger MIA aka killed or enslaved).
 * Armies can be sent and rerouted at any point, by the use of messengers, who can meet moving armies mid-route.
-* Players will be able to send troops to camp at certain friendly locations to guard such lands.  Players will send messengers to these locations to change orders or receive
-  condition updates.
-* When armies are sent to an attack, they will return 1 messenger right after the battle is complete.  When players elect armies to return after a battle, the messenger will
-  arrive much earlier than the rest of the troops.  Armies can be left in locations to take over lands, or even march onward to new targets.  Messengers on return trips can also
-  be captured by enemies. Rather than showing reports immediately when attacks happen (as with other games), players will need to wait for a messenger to return home before
-  knowing what happened.
-* Messenger reports will contain plenty of data to report how the soldiers are doing, outcome of battles, and any other incidents they encountered.  Armies will ideally be
-  self-sufficient while deployed.
+* Players will be able to send troops to camp at certain friendly locations to guard such lands.  Players will send messengers to these locations to change orders or receive condition updates.
+* When armies are sent to an attack, they will return 1 messenger right after the battle is complete.  When players elect armies to return after a battle, the messenger will arrive much earlier than the rest of the troops.  Armies can be left in locations to take over lands, or even march onward to new targets.  Messengers on return trips can also be captured by enemies. Rather than showing reports immediately when attacks happen (as with other games), players will need to wait for a messenger to return home before knowing what happened.
+* Messenger reports will contain plenty of data to report how the soldiers are doing, outcome of battles, and any other incidents they encountered.  Armies will ideally be self-sufficient while deployed.
 
 Troop stationing options
 * Guard lands - sets up troops to manage security in the area, dealing with any attackers directly
-* Limit trading - Troops may station around the area to restrict trade caravans from passing through, or charge tolls for trade caravans to pass.  Armies may also restrict trade
-  from certain locations / factions. Open trade will keep the location's citizens happy.
+* Limit trading - Troops may station around the area to restrict trade caravans from passing through, or charge tolls for trade caravans to pass.  Armies may also restrict trade from certain locations / factions. Open trade will keep the location's citizens happy.
 * Support construction - Armies may assist citizens in constructing buildings and development of the land.  This can greatly improve the happiness of the citizens there.
-* Support durability - Armies may work solely to increase the durability of existing structures, as if to prepare for war.  Can both increase and decrease citizen's sense of
-  safety and relations with the player.
+* Support durability - Armies may work solely to increase the durability of existing structures, as if to prepare for war.  Can both increase and decrease citizen's sense of safety and relations with the player.
 * Support resourcing - Armies will assist citizens in collection / production of resources
 * Support guards - Armies may support existing guards by being added to their ranks.  This will impove the security rating of the lands and increase trust
 * Increase infastructure - Armies may be assigned to improve roads in the area, which will allow for easier travel of armies and trade caravans through a given town
@@ -332,66 +300,51 @@ Troop stationing options
 Land variables
 1) Infastructure - road way strength.  Affects how long it takes armies to travel through.  Works as a multiplier of how much time it takes troops to travel between lands.
    Multipliers run from .2 to 20
-2) Fortification level - How well guarded the land is.  When high, enemy armies will have more trouble taking the land, even when the defending player has few troops in the
-   location. When low, the land can easily be captured. Siege weapons can be used to lower the fortress level of a given land, but will also weaken / destroy other buildings
-   there.
+2) Fortification level - How well guarded the land is.  When high, enemy armies will have more trouble taking the land, even when the defending player has few troops in the location. When low, the land can easily be captured. Siege weapons can be used to lower the fortress level of a given land, but will also weaken / destroy other buildings there.
 3) Population - How many citizens are in the area
-4) Relations - Status of negotiations of the given land.  When low, citizens will be hostile to armies stationed there.  When high, citizens may reduce support costs of armies
-   stationed there, or may even join their ranks.  Various player actions can affect relations in good or bad ways.  Starting negotiation levels of newly found citizens can
-   range from very good to very poor.
-5) Safety - How safe a place is to stay in.  When safety is high, new citizens will settle in a given area.  When it is low, citizens will flee to find new places to live.  When
-   battles take place in a given area, safety levels will drop significantly.  Nearby areas may have their safety levels affected as well.  After battles, safety levels will
-   increase slowly, so long as the land or neighboring land doesn't get attacked again.  Increasing fortification levels and rebuilding damaged buildings can increase safety
-   levels as well.
+4) Relations - Status of negotiations of the given land.  When low, citizens will be hostile to armies stationed there.  When high, citizens may reduce support costs of armies stationed there, or may even join their ranks.  Various player actions can affect relations in good or bad ways.  Starting negotiation levels of newly found citizens can range from very good to very poor.
+5) Safety - How safe a place is to stay in.  When safety is high, new citizens will settle in a given area.  When it is low, citizens will flee to find new places to live. When battles take place in a given area, safety levels will drop significantly.  Nearby areas may have their safety levels affected as well.  After battles, safety levels will increase slowly, so long as the land or neighboring land doesn't get attacked again.  Increasing fortification levels and rebuilding damaged buildings can increase safety levels as well.
    
 First land plots
-  Water source - Dedicated place for people to gather water.  Units won't be able to transport water with starting tools.
-  Forest / wood source - Units dedicated to this will only be able to collect sticks and vine-string at first.  For every 10 sticks they collect, they will get 1 vine string.
-      When vine string isn't used anymore, capacity for that item will fill up & they won't collect any more.
-  Farmland - Units dedicated to this will work to support existing wheat growing there
-  Dirt / clay source - Units here will start to collect clay with only their hands & feet
-  Stone - Units here will only be able to collect pebbles and round boulders (1 round boulder for every 20 pebbles).  Boulders can be used early-game for road blocks, or with
-      clay to claim lands from water.  Pebbles will be used to craft early tools
-  Mines won't be available at the start of the game - no tools to dig holes with.
+  * Water source - Dedicated place for people to gather water.  Units won't be able to transport water with starting tools.
+  * Forest / wood source - Units dedicated to this will only be able to collect sticks and vine-string at first.  For every 10 sticks they collect, they will get 1 vine string.
+    * When vine string isn't used anymore, capacity for that item will fill up & they won't collect any more.
+  * Farmland - Units dedicated to this will work to support existing wheat growing there
+  * Dirt / clay source - Units here will start to collect clay with only their hands & feet
+  * Stone - Units here will only be able to collect pebbles and round boulders (1 round boulder for every 20 pebbles).  Boulders can be used early-game for road blocks, or with clay to claim lands from water.  Pebbles will be used to craft early tools
+  * Mines won't be available at the start of the game - no tools to dig holes with.
 
 Starting buildings
-  Gatherer's station - storage spot for goods gathered by gatherers.  This structure can dedicate units to gathering at game start, without any material requirements.
-  Tool Shop - Players will also set up a tool shop, which will consume wood for producing tools.  First tools made will benefit the shop itself.
-  Hunter's post - storage spot for meats collected by hunting.  Hunters will require, at minimum, a wooden spear, which can be made from the tool shop.  Hunters can also
-      have traps built, which will aid them in collecting meats.  Meats stored at the hunter's post will not last very long.  The hunter's post will produce meats and
-      animal skins, among many other types of resources
-  Cooker's station - A post dedicated to cooking foods (especially meats during early-game).  This should be placed by the campfire, to take advantage of its fire.
-  Primitive tent - Tent made from animal skins and wood spikes.  Very basic, but better than sleeping under the stars.  The player's first animal skins will be put to
-                   this task
-  "Now that we have food in our bellies, and a place to rest, let's get some better tools."
-  Armory - Place to store weapons & armor.  Initial weapons & armor will be made of wood (carved chest plates, helmets, shields, wood-only spears).  Players can invest
-           in increasingly better equipment.  Players will provide enough weapons & armor for their existing population.  The game will recommend producing enough
-           equipment for that end.
-  Flint-toothed saw - First saw for cutting trees down.  Requires sticks and stones to build.  Player will order this to be constructed at the tool shop, and will
-                      be put to immediate use by the forest area.  Each new saw will 
+  * Gatherer's station - storage spot for goods gathered by gatherers.  This structure can dedicate units to gathering at game start, without any material requirements.
+  * Tool Shop - Players will also set up a tool shop, which will consume wood for producing tools.  First tools made will benefit the shop itself.
+  * Hunter's post - storage spot for meats collected by hunting.  Hunters will require, at minimum, a wooden spear, which can be made from the tool shop.  Hunters can also have traps built, which will aid them in collecting meats.  Meats stored at the hunter's post will not last very long.  The hunter's post will produce meats and animal skins, among many other types of resources
+  * Cooker's station - A post dedicated to cooking foods (especially meats during early-game).  This should be placed by the campfire, to take advantage of its fire.
+  * Primitive tent - Tent made from animal skins and wood spikes.  Very basic, but better than sleeping under the stars.  The player's first animal skins will be put to this task
+  * "Now that we have food in our bellies, and a place to rest, let's get some better tools."
+  * Armory - Place to store weapons & armor.  Initial weapons & armor will be made of wood (carved chest plates, helmets, shields, wood-only spears).  Players can invest in increasingly better equipment.  Players will provide enough weapons & armor for their existing population.  The game will recommend producing enough equipment for that end.
+  * Flint-toothed saw - First saw for cutting trees down.  Requires sticks and stones to build.  Player will order this to be constructed at the tool shop, and will be put to immediate use by the forest area.  Each new saw will 
 
-Land aquisition process
+# Land aquisition process
 1) Scout - enter the land with scouts and determine what level of civilization exists there.
 2a) Army assault - If the scout sent was killed or did not return, the player may choose to attack the land by force, possibly overthrowing whatever
 2b) Survey mission - If no civilization was found in the land, the player may send a small army to survey the lands
-2c) Formal greeting - Player will send embassadors to meet the citizens there, and determine what type of situation they're in.
-    Trading situations - From dire to comfortable
-    Safety situations - from dire to comfortable.  Groups in dire situations will be open to 
+2c) Meet the neighbors
+    * Formal greeting - Player will send embassadors to meet the citizens there, and determine what type of situation they're in.
+    * Trading situations - From dire to comfortable
+    * Safety situations - from dire to comfortable.  Groups in dire situations will be open to 
       - Desperate for certain resources (such as food) and have no resources to trade away.
       - Desperate for something but have something else to trade
       - Settled in and not have any need for trading
       - Willing to trade certain resources, but not be in need of anything
-    Relations level - from very poor to very good.  Some newly found civilizations may not want any interaction, or may even view the player as hostile to start with. 
-    The embassador will also determine how open they are to outsiders.
+    * Relations level - from very poor to very good.  Some newly found civilizations may not want any interaction, or may even view the player as hostile to start with. 
+    * The embassador will also determine how open they are to outsiders.
     
-
-
+# Additional thoughts
 * Pay-to-win is always frowned upon
-"One can't really win when one has no real opponent"
+* "One can't really win when one has no real opponent"
 * Play-wise, strategy is valued more than number-crunching
     * Focus on forcing players to deal with more problems, the larger they get
-    * If players cannot advance aka grow, their game will become stagnant and they will choose to leave.  Dealing with more problems at larger size may not work well.  Players
-      will need to benefit greatly by improving lands, so they can deal with additional problems (like from other players).  Dealing with new problems can be fun.
+* If players cannot advance aka grow, their game will become stagnant and they will choose to leave.  Dealing with more problems at larger size may not work well.  Players will need to benefit greatly by improving lands, so they can deal with additional problems (like from other players).  Dealing with new problems can be fun.
 
 What tech level to get up to?
 * static tech level will be more fair to younger players, as it will balance the game better
@@ -411,4 +364,3 @@ Center of game will be about multiplayer and negotiating with others
 * Player should start with being able to trade for only basic resources - enough to get off the ground. Everything else can be aquired by further trading or producing 'at home'.
 * Finished goods will trade for better value and less transport cost than raw goods
 * Set up automated trade networks through non players? Not sure I could build such a working system
-
