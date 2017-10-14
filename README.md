@@ -160,127 +160,127 @@ Resource types
        to produce bronze, and then steel.  Ores will be collected as a single resource; what it comes out to be will be decided at the smeltery; higher-value metals
        requiring more ores to aquire.
        Ores to find underground:
-         - Cassiterite - Source of tin.  Can extract zinc from it
-         - Chalcopyrite - Source of copper, along with trace amounts of platinum.  Extracting platinum will require advanced technology
-         - Banded Iron - Rusty aka oxygen-rich iron ore
-         - Brown / yellow lignite - Source of iron.  Yellow limonite can yield nickel, but requires advanced processing
-         - Coal - Easy fuel source.  Can extract lignite from it.  Spawns in very large quantities, but can be exhuasted all the same.  Fairly common
-         - Magnetite - Source of iron.  Can extract vanadium from it
-         - Vanadium Magnetite - Vanadium cannot be mined directly, but vanadium magnetite will be valuable as a trading item
-         - Gold - not common, but players who locate it can dramatically shift the economy in their favor through production of coins
-         - Malachite - Source of copper.  Can extract brown limonite from it, and later, carbon, hydrogen & oxygen
-         - Tetrahedrite - Source of copper.  Can also extract anitmony from it (this is probably the only direct source of anitmony, used for producing acid-proof
+         * Cassiterite - Source of tin.  Can extract zinc from it
+         * Chalcopyrite - Source of copper, along with trace amounts of platinum.  Extracting platinum will require advanced technology
+         * Banded Iron - Rusty aka oxygen-rich iron ore
+         * Brown / yellow lignite - Source of iron.  Yellow limonite can yield nickel, but requires advanced processing
+         * Coal - Easy fuel source.  Can extract lignite from it.  Spawns in very large quantities, but can be exhuasted all the same.  Fairly common
+         * Magnetite - Source of iron.  Can extract vanadium from it
+         * Vanadium Magnetite - Vanadium cannot be mined directly, but vanadium magnetite will be valuable as a trading item
+         * Gold - not common, but players who locate it can dramatically shift the economy in their favor through production of coins
+         * Malachite - Source of copper.  Can extract brown limonite from it, and later, carbon, hydrogen & oxygen
+         * Tetrahedrite - Source of copper.  Can also extract anitmony from it (this is probably the only direct source of anitmony, used for producing acid-proof
                         containers, mostly for batteries).
-         - Stibnite - Sulfur-rich antimony.  Cannot be used directly
-         Aluminum - Pure aluminum is rare to find, but is valuable to pre-electric civilizations
-         Bauxite - Much more common source of aluminum, but requires electrolyzation.  Will also extract rutile (for titanium) and grossular dust (can be electrolyzed
+         * Stibnite - Sulfur-rich antimony.  Cannot be used directly
+         * Aluminum - Pure aluminum is rare to find, but is valuable to pre-electric civilizations
+         * Bauxite - Much more common source of aluminum, but requires electrolyzation.  Will also extract rutile (for titanium) and grossular dust (can be electrolyzed
                    for calcium, silicon and more aluminum).
-         Pyrite - Source of sulfuric metals.  Will need electrolyzation to extract iron form it and get pure sulfur.  Advanced processing can extract phosporus
-         Sulfur - sulfur can sometimes be found in pure form.  Sulfur will be used in the production of rubber, bleaching paper, making explosives, and producing
+         * Pyrite - Source of sulfuric metals.  Will need electrolyzation to extract iron form it and get pure sulfur.  Advanced processing can extract phosporus
+         * Sulfur - sulfur can sometimes be found in pure form.  Sulfur will be used in the production of rubber, bleaching paper, making explosives, and producing
                   fertilizers
-         Sphalerite -  Sulfur-rich zinc.  Advanced processing can also yield cadmium and yellow garnet dust  Gregtech requires an electrolyzer to extract the sulfur
+         * Sphalerite -  Sulfur-rich zinc.  Advanced processing can also yield cadmium and yellow garnet dust  Gregtech requires an electrolyzer to extract the sulfur
                        from the zinc
-         Lignite - Can be used as fuel, but not as effective as coal.  Contains trace levels of coal, which can be washed out
-         Quartz - Crystals... ??
-         Quartzite
-         Rock Salt
-         Salt
-         Lepidolite
-         Spodumene
-         Ruby
-         Cinnabar
-         Soapstone
-         Talc
-         Glauconite
-         Pentlandite
-         Nickel
-         Garnierite
-         Cobaltite
-         Platinum
-         Sheldonite
-         Palladium
-         Iridium
-         Pitchblende
-         Uranium
-         Uraninite
-         Plutonium
-         Monazite
-         Bastnasite
-         Neodymium
-         Molybdenum
-         Wulfenite
-         Molybdenite
-         Powellite
-         Sapphire
-         Almandine
-         Pyrope
-         Manganese
-         Grossular
-         Spessartine
-         Pyrolusite
-         Tantalite
-         Barite
-         Certus Quartz
-         Diamond
-         Graphite
-         Olivine
-         Bentonite
-         Glauconite
-         Apatite
-         Galena
-         Silver
-         Lea
-         Lapis
-         Lazurite
-         Sodalite
-         Calcite
-         Beryllium
-         Emerald
-         Thorium
+         * Lignite - Can be used as fuel, but not as effective as coal.  Contains trace levels of coal, which can be washed out
+         * Quartz - Crystals... ??
+         * Quartzite
+         * Rock Salt
+         * Salt
+         * Lepidolite
+         * Spodumene
+         * Ruby
+         * Cinnabar
+         * Soapstone
+         * Talc
+         * Glauconite
+         * Pentlandite
+         * Nickel
+         * Garnierite
+         * Cobaltite
+         * Platinum
+         * Sheldonite
+         * Palladium
+         * Iridium
+         * Pitchblende
+         * Uranium
+         * Uraninite
+         * Plutonium
+         * Monazite
+         * Bastnasite
+         * Neodymium
+         * Molybdenum
+         * Wulfenite
+         * Molybdenite
+         * Powellite
+         * Sapphire
+         * Almandine
+         * Pyrope
+         * Manganese
+         * Grossular
+         * Spessartine
+         * Pyrolusite
+         * Tantalite
+         * Barite
+         * Certus Quartz
+         * Diamond
+         * Graphite
+         * Olivine
+         * Bentonite
+         * Glauconite
+         * Apatite
+         * Galena
+         * Silver
+         * Lea
+         * Lapis
+         * Lazurite
+         * Sodalite
+         * Calcite
+         * Beryllium
+         * Emerald
+         * Thorium
          
          
 
 Buildings
-  - All buildings will have two separate upgrade routes; one to increase productivity (or storage, or at least something), the other to improve durability from attacks.
+  * All buildings will have two separate upgrade routes; one to increase productivity (or storage, or at least something), the other to improve durability from attacks.
     Some productivity levels will require a minimum durability level (aka a roof over a workshop, for example).
-  - All buildings will also have a tools level.  Tools will need to be provided by a tool shop (the tool shop working based on highest demand) or higher level building.
+  * All buildings will also have a tools level.  Tools will need to be provided by a tool shop (the tool shop working based on highest demand) or higher level building.
     This way, specific tool types won't need to be tracked.  Upgrading production levels of a specific building will increase the maximum number of tools that building
     can hold.  Some buildings that share the same purpose may share tools, like if a building is added or removed. The player will be able to set a priority level on
     tools of each building, allowing some buildings to have priority of having more tools, over other buildings.  The more tools a specific building has, the faster the
     jobs there can be completed.  All tools wear our over time and need to be replaced.
-  Foresters hut - Working space for a forester.  First levels will not require any resources (everything starts from needing wood anyway), and later levels will be for
+  * Foresters hut - Working space for a forester.  First levels will not require any resources (everything starts from needing wood anyway), and later levels will be for
                   storing more chopped wood
-  Blacksmith - Turns metals into weapons & armor.  Armies will be able to attack without equipment, but will do much better with it.
-  Housing
-    Tents - Quick & cheap temporary housing for individuals
-    Basic house - Offers housing for a single family
-    Stone house - Uses stone instead of wood for lower structures.  Requires less resources to keep warm in winter time.
-    *** Need additional housing types, but no game incentive for more expensive units
-  Hops fields - requires wood to set up vine holding structures
-  Oast House - used later in game.  Built to increase output of brewery by drying out hops before being cooked.  Drying is done in the brewer building already, but a dedicated
+  * Blacksmith - Turns metals into weapons & armor.  Armies will be able to attack without equipment, but will do much better with it.
+  * Housing
+    * Tents - Quick & cheap temporary housing for individuals
+    * Basic house - Offers housing for a single family
+    * Stone house - Uses stone instead of wood for lower structures.  Requires less resources to keep warm in winter time.
+    * Need additional housing types, but no game incentive for more expensive units
+  * Hops fields - requires wood to set up vine holding structures
+  * Oast House - used later in game.  Built to increase output of brewery by drying out hops before being cooked.  Drying is done in the brewer building already, but a dedicated
                building for hops drying will increase production output.
-  Quarry - dedicated place to collect stone from. Some places will have better total supply than others
-  Mining Shaft - Central place to locate mineral ores from. Ores on a given map block will all be the same, but between map spots, ores will be fully randomized. Players will not
+  * Quarry - dedicated place to collect stone from. Some places will have better total supply than others
+  * Mining Shaft - Central place to locate mineral ores from. Ores on a given map block will all be the same, but between map spots, ores will be fully randomized. Players will not
                  know what ores will be there until they begin mining.  Only certain ores will be minable at game start. Players will need pickaxes made of harder metals (or power
                  tools) to mine later-game ores
-  Pottery Kiln - Building where pottery is fired at. Later setups week have a separate building for producing unfired pottery shapes. Pottery will probably be one of the earliest
+  * Pottery Kiln - Building where pottery is fired at. Later setups week have a separate building for producing unfired pottery shapes. Pottery will probably be one of the earliest
                  finished goods export for players. Will also make water transportation possible
-  Farmer's Shed - Small building used to store farming tools. All other farm related land will be for crops
-  Pastures - Fenced in areas for holding livestock of many kinds. Certain livestock will need heavier or smaller fencing setups. The type of fence used will be chosen from the
+  * Farmer's Shed - Small building used to store farming tools. All other farm related land will be for crops
+  * Pastures - Fenced in areas for holding livestock of many kinds. Certain livestock will need heavier or smaller fencing setups. The type of fence used will be chosen from the
              field's menu, then transported and installed there.
-  Slaughterhouse - Place where animals are taken to be slaughtered for meats.
-  Smoking House - Place where meats are placed in order to turn them into jerky for preservation
-  Orchards - Places used to grow & care for trees.  Trees will take a long time to mature, but once they do, will produce lots of food.
-  Smeltery - Furnace used to turn ores into useable metals
-  Charcoal Pit - Dirt-based put used to turn firewood into charcoal. First use of this will be for running Smelteries
-  Tool Shop - Workshop dedicated to making tools, as well as weapons & armor
-  Dining Hall - Building used for feeding people. Early ones will have food crafted here.  Later, player will use a dedicated kitchen building for cooking
-  Blast Furnace - Turns iron and charcoal into steel.  Rather expensive to build, and once finished, very charcoal-hungry to run
-  Saw Mill - Dedicated building for turning chopped wood into lumber, firewood and sawdust (sawdust can have later uses as well, such as for paper).  Before the sawmill is
+  * Slaughterhouse - Place where animals are taken to be slaughtered for meats.
+  * Smoking House - Place where meats are placed in order to turn them into jerky for preservation
+  * Orchards - Places used to grow & care for trees.  Trees will take a long time to mature, but once they do, will produce lots of food.
+  * Smeltery - Furnace used to turn ores into useable metals
+  * Charcoal Pit - Dirt-based put used to turn firewood into charcoal. First use of this will be for running Smelteries
+  * Tool Shop - Workshop dedicated to making tools, as well as weapons & armor
+  * Dining Hall - Building used for feeding people. Early ones will have food crafted here.  Later, player will use a dedicated kitchen building for cooking
+  * Blast Furnace - Turns iron and charcoal into steel.  Rather expensive to build, and once finished, very charcoal-hungry to run
+  * Saw Mill - Dedicated building for turning chopped wood into lumber, firewood and sawdust (sawdust can have later uses as well, such as for paper).  Before the sawmill is
              built, all wood products are made at the Forester's Hut.  The Sawmill will benefit from being placed beside a river (to take advantage of power by water flow).
-  Mill - Uses wind or water power to grind wheat into flour 
-  Metal Shop - Uses power tools (starting with steam) to craft metal shapes that are used for tools.  May be enhanced with tools by its own outputs
-  Steam Furnace - Later-game device - Central unit used to produce steam.  Steam pipe routing will be part of the infastructure variable of the map-plot that the steam furnace is
+  * Mill - Uses wind or water power to grind wheat into flour 
+  * Metal Shop - Uses power tools (starting with steam) to craft metal shapes that are used for tools.  May be enhanced with tools by its own outputs
+  * Steam Furnace - Later-game device - Central unit used to produce steam.  Steam pipe routing will be part of the infastructure variable of the map-plot that the steam furnace is
                   in; it will work as a numeric value of how many building blocks may support steam.  This will hopefully encourage players to have all their steam devices close
                   together. 
   
