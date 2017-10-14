@@ -155,32 +155,24 @@ Resource types
 * Salts - Salts will be used in the process of preserving meats, and will be required to keep livestock healthy.  Salt will be mined from the ground, mostly.  Later salts can be
         collected from some waters, in drying spaces.
 
-* Ores - Ores will be the source of metals, such as iron.  These ores will need to be processed in forges.  The player will be able to manage what the forge produces from
-       the ores. The forge will require a constant supply of  wood to fuel its fires.  Its outputs will initially only be iron, but with tech development, can be used
-       to produce bronze, and then steel.  Ores will be collected as a single resource; what it comes out to be will be decided at the smeltery; higher-value metals
-       requiring more ores to aquire.
-       Ores to find underground:
-         * Cassiterite - Source of tin.  Can extract zinc from it
-         * Chalcopyrite - Source of copper, along with trace amounts of platinum.  Extracting platinum will require advanced technology
-         * Banded Iron - Rusty aka oxygen-rich iron ore
-         * Brown / yellow lignite - Source of iron.  Yellow limonite can yield nickel, but requires advanced processing
-         * Coal - Easy fuel source.  Can extract lignite from it.  Spawns in very large quantities, but can be exhuasted all the same.  Fairly common
-         * Magnetite - Source of iron.  Can extract vanadium from it
-         * Vanadium Magnetite - Vanadium cannot be mined directly, but vanadium magnetite will be valuable as a trading item
-         * Gold - not common, but players who locate it can dramatically shift the economy in their favor through production of coins
-         * Malachite - Source of copper.  Can extract brown limonite from it, and later, carbon, hydrogen & oxygen
-         * Tetrahedrite - Source of copper.  Can also extract anitmony from it (this is probably the only direct source of anitmony, used for producing acid-proof
-                        containers, mostly for batteries).
-         * Stibnite - Sulfur-rich antimony.  Cannot be used directly
-         * Aluminum - Pure aluminum is rare to find, but is valuable to pre-electric civilizations
-         * Bauxite - Much more common source of aluminum, but requires electrolyzation.  Will also extract rutile (for titanium) and grossular dust (can be electrolyzed
-                   for calcium, silicon and more aluminum).
-         * Pyrite - Source of sulfuric metals.  Will need electrolyzation to extract iron form it and get pure sulfur.  Advanced processing can extract phosporus
-         * Sulfur - sulfur can sometimes be found in pure form.  Sulfur will be used in the production of rubber, bleaching paper, making explosives, and producing
-                  fertilizers
-         * Sphalerite -  Sulfur-rich zinc.  Advanced processing can also yield cadmium and yellow garnet dust  Gregtech requires an electrolyzer to extract the sulfur
-                       from the zinc
-         * Lignite - Can be used as fuel, but not as effective as coal.  Contains trace levels of coal, which can be washed out
+* Ores - Ores will be the source of metals, such as iron.  These ores will need to be processed in forges.  The player will be able to manage what the forge produces from the ores. The forge will require a constant supply of  wood to fuel its fires.  Its outputs will initially only be iron, but with tech development, can be used to produce bronze, and then steel.  Ores will be collected as a single resource; what it comes out to be will be decided at the smeltery; higher-value metals requiring more ores to aquire. Ores to find underground:
+  * Cassiterite - Source of tin.  Can extract zinc from it
+  * Chalcopyrite - Source of copper, along with trace amounts of platinum.  Extracting platinum will require advanced technology
+  * Banded Iron - Rusty aka oxygen-rich iron ore
+  * Brown / yellow lignite - Source of iron.  Yellow limonite can yield nickel, but requires advanced processing
+  * Coal - Easy fuel source.  Can extract lignite from it.  Spawns in very large quantities, but can be exhuasted all the same.  Fairly common
+  * Magnetite - Source of iron.  Can extract vanadium from it
+  * Vanadium Magnetite - Vanadium cannot be mined directly, but vanadium magnetite will be valuable as a trading item
+  * Gold - not common, but players who locate it can dramatically shift the economy in their favor through production of coins
+  * Malachite - Source of copper.  Can extract brown limonite from it, and later, carbon, hydrogen & oxygen
+  * Tetrahedrite - Source of copper.  Can also extract anitmony from it (this is probably the only direct source of anitmony, used for producing acid-proof containers, mostly for batteries).
+  * Stibnite - Sulfur-rich antimony.  Cannot be used directly
+  * Aluminum - Pure aluminum is rare to find, but is valuable to pre-electric civilizations
+  * Bauxite - Much more common source of aluminum, but requires electrolyzation.  Will also extract rutile (for titanium) and grossular dust (can be electrolyzed for calcium, silicon and more aluminum).
+  * Pyrite - Source of sulfuric metals.  Will need electrolyzation to extract iron form it and get pure sulfur.  Advanced processing can extract phosporus
+  * Sulfur - sulfur can sometimes be found in pure form.  Sulfur will be used in the production of rubber, bleaching paper, making explosives, and producing fertilizers
+  * Sphalerite -  Sulfur-rich zinc.  Advanced processing can also yield cadmium and yellow garnet dust  Gregtech requires an electrolyzer to extract the sulfur from the zinc
+  * Lignite - Can be used as fuel, but not as effective as coal.  Contains trace levels of coal, which can be washed out
          * Quartz - Crystals... ??
          * Quartzite
          * Rock Salt
