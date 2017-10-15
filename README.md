@@ -32,7 +32,7 @@ Army makeup
  battle numbers. They will require a certain level of training before being useable, and do much better in combat than untrained fighters.
 
 # Land Types
-  We'll start with a simplified list of these: forests and plains to start, then desert, and mountain lands, etc, as game progress allows
+  We'll start with a simplified list of these: plains and forests to start, then desert, and mountain lands, etc, as game progress allows
 * Deep Desert - Resources will be scarce here, and the land won't be very valuable. Certain land locations will have oasis (any desert-spawning players will have one of these),
               and harbor a small amount of farming.  The rest will be wide open and unuseable.  However, many players may choose to develop these areas, as it will be cheaper
               to mine underground resources.
@@ -134,6 +134,14 @@ Other dangerous creatures
   * We may eventually include multiple wood types, aka oak for soft lumber, pine for harder wood, but that will come later.
 * Stone - This will mainly be used for constructing stronger buildings and defense walls.  Due to the high chances of attack or saboutage, stone structures will be in high demand.
   * Buildings will have two general upgrade routes, one for increased production, the other for increased structure, which makes it harder to be destroyed by enemies.
+* Dirt - Different types of dirt will be available, each affecting how well certain plants will grow in the area.  Transporting dirt types from one place to another can change how well certain plants can grow there, but over time the dirt composition will shift back to what it is naturally
+  * Chalky - High PH levels from limestone underground.  Good for lilies or plants that can handle dry conditions
+  * Sandy - Contains high amounts of sand (silica) and quartz.  Water drains from it very fast.  Good for growing cactus and other shrubs.  Modifying to slow drainage will change soil type.
+  * Mulch - Basically creek wash-outs, containing lots of wood material.  Nutrient-rich and can support lots of plant types
+  * Silt - Dense soil, holds water well (aka too well).  Good for swamp-hardy plants
+  * Gravel - Rock-heavy soil, difficult to grow anything in well
+  * Compost - Man-made dirt product produced from decaying plant products.  Helps increase growth rates of plants it is used on
+  * Clay - Very dense soil, holds water even better than silt.
 * Grains - The basic food source for your people - but not the only one. Grains require processing into bread before consumption.  Grains can also be fed to livestock, which provides meats.
 * Livestock - This will provide an easy source of meats for your people, but will require land, grains and salt to keep the livestock fed & healthy. Livestock will also have to be bred, and slaughtered to provide food. Slautering will also provide raw hides, feathers and other resources
 * Meats - A second source of food for your people.  Meats can be gathered from hunting from the wilderness early on.  Later, livestock can be aquired and developed.  Raw and cooked meats will have a short shelf-life (represented as a constant consumption speed), and be drained very quickly unless it is eaten or salted.  Because of the short shelf-life of meats, hunting expeditions will have to be done close to home.
