@@ -309,7 +309,11 @@ First land plots
   * Mines won't be available at the start of the game - no tools to dig holes with.
 
 Starting buildings
-  * Gatherer's station - storage spot for goods gathered by gatherers.  This structure can dedicate units to gathering at game start, without any material requirements.
+  * Gatherer's station - storage spot for goods gathered by gatherers.  This structure can dedicate units to gathering at game start, without any material requirements.  Things that can be found when foraging
+    * Apples
+    * Blackthorn berries, Blackberries, Rose Hip Berries, Elderberries
+    * Hazel nuts, Chest nuts, Beech nuts
+    * Puffball mushrooms, bracket mushrooms
   * Tool Shop - Players will also set up a tool shop, which will consume wood for producing tools.  First tools made will benefit the shop itself.
   * Hunter's post - storage spot for meats collected by hunting.  Hunters will require, at minimum, a wooden spear, which can be made from the tool shop.  Hunters can also have traps built, which will aid them in collecting meats.  Meats stored at the hunter's post will not last very long.  The hunter's post will produce meats and animal skins, among many other types of resources
   * Cooker's station - A post dedicated to cooking foods (especially meats during early-game).  This should be placed by the campfire, to take advantage of its fire.
@@ -320,16 +324,17 @@ Starting buildings
 
 # Land aquisition process
 1) Scout - enter the land with scouts and determine what level of civilization exists there.
-2a) Army assault - If the scout sent was killed or did not return, the player may choose to attack the land by force, possibly overthrowing whatever
-2b) Survey mission - If no civilization was found in the land, the player may send a small army to survey the lands
-2c) Meet the neighbors
+2) Send formal units
+  * Army assault - If the scout sent was killed or did not return, the player may choose to attack the land by force, possibly overthrowing whatever
+  * Survey mission - If no civilization was found in the land, the player may send a small army to survey the lands
+  * Meet the neighbors.  This can result in one of many situations:
     * Formal greeting - Player will send embassadors to meet the citizens there, and determine what type of situation they're in.
     * Trading situations - From dire to comfortable
-    * Safety situations - from dire to comfortable.  Groups in dire situations will be open to 
-      - Desperate for certain resources (such as food) and have no resources to trade away.
-      - Desperate for something but have something else to trade
-      - Settled in and not have any need for trading
-      - Willing to trade certain resources, but not be in need of anything
+    * Safety situations - from dire to comfortable.  Groups in dire situations will be more open to unbalanced trades and troop occupation
+      * Desperate for certain resources (such as food) and have nothing useful to trade away.
+      * Desperate for something but have something else to trade
+      * Settled in and not have any need for trading
+      * Willing to trade certain resources, but not be in need of anything
     * Relations level - from very poor to very good.  Some newly found civilizations may not want any interaction, or may even view the player as hostile to start with. 
     * The embassador will also determine how open they are to outsiders.
     
