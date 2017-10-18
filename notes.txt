@@ -1,0 +1,6 @@
+Some notes to consider
+We'll have two DB tables to manage activities: event and process.  Process will handle continuous-active things such as collecting resources.  These will have a start time, and essentially not be bothered until they are accessed.  When done so, the related changes will be calculated in, and the start time will be updated to the present.
+
+Events will manage one-off activities, such as troop movement, battles, item production, etc.  We will have a separate file to manage the end of events.  This may trigger additional events if necessary, or new processes.
+
+Maps will be divided into two layers.  On the database they are shown as map and minimap.  When players occupy land, they will own the entire map unit, which is all minimap squares in that block.
