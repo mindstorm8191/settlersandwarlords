@@ -5,6 +5,7 @@ Note: These are the notes I have generated for this project thus far.  All this 
 Game like Evony (and Vesuvius), but focus on diplomatics instead of all-out war (war will still be an option, though), and developing your lands to better your empire.
 
 Note: My plans for individual units are a bit up in the air now, not sure if any of this portion will be used.  See lower for more concrete ideas
+
 Players start with a fixed number of 'loyalists', which will work for free, so long as they are provided with food, shelter and protection for themselves and their families.
 
 Players will also have & gain crew, which require monetary payment for work.
