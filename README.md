@@ -104,19 +104,13 @@ Stick to a small list of game types, to each fill specific roles.  No need to ge
 # Magic elements
 without magic, this is only another civ/dwarf fortress game.
 
-* Sorcerers - this will be its own npc civ type, which will be single persons controlling a whole land region (generally a forest). They survive well enough on their
-            own, but are willing to trade some common goods for magic knowledge or magical artifacts.  Attacking them is not advisable, as they will take a large army
-            to defeat.  There will be multiple sorcerer types, which deal with light or dark magic. Like all tribes, negative situations with neighbors may encourage
-            better trades from them, or joining your ranks.  Troops first encountering sorcerers will see signs of them before meeting.  However, the sorcerer will
-            already be well aware of their presencedddddddc
+* Sorcerers - this will be its own npc civ type, which will be single persons controlling a whole land region (generally a forest). They survive well enough on their own, but are willing to trade some common goods for magic knowledge or magical artifacts.  Attacking them is not advisable, as they will take a large army to defeat.  There will be multiple sorcerer types, which deal with light or dark magic. Like all tribes, negative situations with neighbors may encourage better trades from them, or joining your ranks.  Troops first encountering sorcerers will see signs of them before meeting.  However, the sorcerer will already be well aware of their presence of intruders.  Unlike other civilizations, sorcerers can warp around their whole area instantly - and may do the same to your troops
 
 * Werewolves - Wolf type people, works in packs.  No moon morphing will be involved
-* Vampires - Only out at night. Usually not found as tribes, they choose to infiltrate
-           existing tribes and slowly take over from inside, killing the Weak and converting the strong
+* Vampires - Only out at night. Usually not found as tribes, they choose to infiltrate existing tribes and slowly take over from inside, killing the Weak and converting the strong
 * Faries - tiny forest dwellers with wings, too fast to kill with normal weapons
 * Dwarves - ground dwellers living in vast cave systems
-* Elves - plains / forest creatures with excellent vision and plant enhancing magic.
-        may trade for Super seeds or plant enhancing materials
+* Elves - plains / forest creatures with excellent vision and plant enhancing magic. May trade for super-seeds or plant enhancing materials
 * Witches / warlocks - secluded group focused on developing their magical powers.  Will trade for rare magical items
 * Ents - Giant walking trees.  Lives only in forests, and will guard forest lands near it from being chopped down.
 
