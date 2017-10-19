@@ -4,6 +4,7 @@ Note: These are the notes I have generated for this project thus far.  All this 
 
 Game like Evony (and Vesuvius), but focus on diplomatics instead of all-out war (war will still be an option, though), and developing your lands to better your empire.
 
+Note: My plans for individual units are a bit up in the air now, not sure if any of this portion will be used.  See lower for more concrete ideas
 Players start with a fixed number of 'loyalists', which will work for free, so long as they are provided with food, shelter and protection for themselves and their families.
 
 Players will also have & gain crew, which require monetary payment for work.
@@ -14,7 +15,7 @@ Players will also be able to aquire slaves.  The most common source is
 prisoners from wars.  Slaves will require additional methods to contain them, though regular escapes still take place no matter how much effort is put into containing them.
 Slaves will be limited to what jobs they can perform.  They will also require food & shelter, but less than the loyalists.
 
-Map construction
+# Map construction
 * Maps will consist of an overview map, made of land plots that will extend 'indefinately' in all directions.  Each land plot will consist of one of the land types below.  The
   selection of land types will be decided upon by an image drawing algorithm that plots circles, one color for each type of land.
 * Each plot on the map will contain a set of map squares.  The current number of squares per plot is 36 in a 6x6 grid.
