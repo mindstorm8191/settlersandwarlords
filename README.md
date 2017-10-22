@@ -251,8 +251,10 @@ Other dangerous creatures
   * Saw Mill - Dedicated building for turning chopped wood into lumber, firewood and sawdust (sawdust can have later uses as well, such as for paper).  Before the sawmill is built, all wood products are made at the Forester's Hut.  The Sawmill will benefit from being placed beside a river (to take advantage of power by water flow).
   * Mill - Uses wind or water power to grind wheat into flour 
   * Metal Shop - Uses power tools (starting with steam) to craft metal shapes that are used for tools.  May be enhanced with tools by its own outputs
-  * Steam Furnace - Later-game device - Central unit used to produce steam.  Steam pipe routing will be part of the infastructure variable of the map-plot that the steam furnace is in; it will work as a numeric value of how many building blocks may support steam.  This will hopefully encourage players to have all their steam devices close together. 
-  
+  * Steam Furnace - Later-game device - Central unit used to produce steam.  Steam pipe routing will be part of the infastructure variable of the map-plot that the steam furnace is in; it will work as a numeric value of how many building blocks may support steam.  This will hopefully encourage players to have all their steam devices close together.
+  * Defensive structures
+    * Watch tower - warns camps of incoming enemy troops.  Depending on 'amount of time' the warning provides, increases defending troop effectiveness by up to 100%.
+    * Wood archer tower - elevated station that protects archers while giving them a vantage point to fire on enemies.
 
 Lands
 * Each land will have its own inventory.  The player will be in charge of moving resources between places in order to satisfy resource demands of each place.
@@ -333,6 +335,12 @@ Starting buildings
       * Willing to trade certain resources, but not be in need of anything
     * Relations level - from very poor to very good.  Some newly found civilizations may not want any interaction, or may even view the player as hostile to start with. 
     * The embassador will also determine how open they are to outsiders.
+    
+# Combat
+Programming detailed combat will be difficult, especially since, chances are, defending players won't be online to defend their city.  It will be easier to allow certain percent-bonuses for including certain elements.
+* All battles will take at least 5 minutes, or longer if battles are very large or it is a close call to determine victory.
+* Only a limited number of troops may engage each other at a time.  The current target is 100 on each side.  As troops on the front lines are killed from each side, additional troops will fill in the gaps to replenish the front 100.
+* Defensive structures will help improve the stats of the defending player.  Troop load-outs will also play a factor.  The only difference between same-sized armies will be training.
     
 # Additional thoughts
 * Pay-to-win is always frowned upon
