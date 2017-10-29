@@ -4,3 +4,6 @@ We'll have two DB tables to manage activities: event and process.  Process will 
 Events will manage one-off activities, such as troop movement, battles, item production, etc.  We will have a separate file to manage the end of events.  This may trigger additional events if necessary, or new processes.
 
 Maps will be divided into two layers.  On the database they are shown as map and minimap.  When players occupy land, they will own the entire map unit, which is all minimap squares in that block.
+
+Food spoiling: Food spoiling will be a mechanic that keeps players from stockpiling food.  We will probably add this in the later portion of development.  Essentially, every food type will have a maximum time that it is good.  If the player has enough food of that type to where their supplies can't be consumed by the time limit, any extra food above that will be considered spoiled.
+Additionally, when there is a surplus of food, the player's colonists will waste more food.  When there is a shortage of food, the player's colonists will conserve food more and stretch it as much as possible.  In-game, this means that the player won't be notified of spoiling food unless it is over a certain threshhold. Also, colonists won't start dying of starvation unless food production is well below the displayed food consumption rate
